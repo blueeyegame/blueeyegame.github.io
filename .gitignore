@@ -49,3 +49,12 @@ DerivedData
 
 #office tmp file
 ~$*
+#
+###############
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
